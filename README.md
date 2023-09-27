@@ -1,19 +1,11 @@
-<h1 align="center">Hola👋, Soy Federico Olguin</h1>
-<h3 align="center">Developer de Argentina</h3>
+<h1 align="center">Hi 👋, I'm Federico</h1>
+<h3 align="center">A full stack developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=montoyafranco&label=Profile%20views&color=0e75b6&style=flat" alt="montoyafranco" /> </p>
+- 🔭 I’m currently working on Jedify
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=montoyafranco" alt="montoyafranco" /></a> </p>
+- 🌱 I’m currently learning Microservices and AWS
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 Actualmente estoy trabajanod en backend desarrollando apis en java
-
-- 🌱 Actulamente estoy aprendiendo microservicios y docker
-
-<!-- - 👨‍💻 All of my projects are available at [https://agustin-montoya-portfolio.netlify.app/](https://agustin-montoya-portfolio.netlify.app/)-->
-
-- 💬 Preguntame sobre java
+- 💬 Ask me about Java
 
 - 📫 How to reach me **francomontoya9810@gmail.com**
 
