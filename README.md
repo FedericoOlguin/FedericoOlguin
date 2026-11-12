@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Jedify
 
-- 🌱 I’m currently learning Microservices and AWS
+- 🌱 I’m currently learning Docker and CI/CD
 
 - 💬 Ask me about Java
 
